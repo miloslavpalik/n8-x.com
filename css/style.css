@@ -492,6 +492,7 @@ p {
   background: rgba(255, 255, 255, 0.19);
 }
 span.paragraph-text{
+  text-align: left;
   color: #8a8a8a;
 }
 
@@ -1953,6 +1954,7 @@ margin-left: 15px;
 @media screen and (min-width: 1400px) {
   .stastistical-part .content .statistics .pieChart-list {
     display: none;
+    flex: 1 1 auto;
   }
 }
 
