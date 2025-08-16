@@ -1898,6 +1898,9 @@ margin-left: 15px;
   margin: 2em auto 5px;
 }
 .stastistical-part .content .statistics .pieChart-list li {
+  display: flex;                   
+  justify-content: space-between;   
+  align-items: center; 
   line-height: 1.6em;
   text-align: left;
   text-transform: uppercase;
