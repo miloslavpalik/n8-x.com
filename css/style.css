@@ -1901,13 +1901,14 @@ margin-left: 15px;
 .stastistical-part .content .statistics .pieChart-list li {
   display: flex;                   
   justify-content: space-between;   
-  align-items: flex-start; 
+  align-items: center; 
   line-height: 1.6em;
   text-align: left;
   text-transform: uppercase;
 }
 .stastistical-part .content .statistics .pieChart-list li span {
   display: inline-block;
+  vertical-align: middle;
 }
 .stastistical-part .content .statistics .pieChart-list li span.label {
   flex: 1;
