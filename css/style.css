@@ -1,4 +1,4 @@
-@import url("http://hello.myfonts.net/count/2a8a52");
+@import url("https://hello.myfonts.net/count/2a8a52");
 /* Colours */
 /* Base font size */
 /* Imports */
@@ -2717,7 +2717,7 @@ margin-left: 15px;
   cursor: pointer;
 }
 .pricing-part .pricing-menu li a {
-  color: #FFFFFF;
+  color: #8a8a8a;
 }
 .pricing-part .pricing-menu li a:focus, .pricing-part .pricing-menu li a:hover {
   color: white;
