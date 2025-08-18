@@ -2822,10 +2822,6 @@ margin-left: 15px;
 
 /* Membership */
 
-.membership-part .membership-part-section-seperator{
-            background-image: url(../images/membership.jpg);
-          }
-
 .membership-part .membership-part-section-seperator {
   position: relative;
   min-height: 31.25em;
