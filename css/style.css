@@ -467,7 +467,7 @@ h4, .h4 {
 
 p {
   font-size: 1.3125em;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .icon-compose,.icon-task-check{
   margin-right:5px; 
@@ -493,7 +493,7 @@ p {
 }
 span.paragraph-text{
   text-align: left;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 
 .section-intro h1 .seconday, .section-intro h1 .em, .section-intro h1 .section-team .team-members li .team-member-title .em, .section-team .team-members li .team-member-title .section-intro h1 .em, .section-intro h1 .section-brand .guidelines .columns .colors ul li .em, .section-brand .guidelines .columns .colors ul li .section-intro h1 .em,
@@ -612,7 +612,7 @@ span.paragraph-text{
   vertical-align: bottom;
   margin-right: 0.5em;
   font-size: 1.2em;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 
 /* BB Logo */
@@ -1425,12 +1425,12 @@ margin-left: 15px;
   width: 80px;
   margin: 0 7px;
   border: 1px solid white;
-  background: #8a8a8a;
+  background: #FFFFFF;
   height: 50%;
 }
 .stastistical-part .content .statistics .barChart .bar:nth-child(2) {
   border-color: #b2b2b2;
-  background-color: #8a8a8a;
+  background-color: #FFFFFF;
 }
 .stastistical-part .content .statistics .barChart .bar:nth-child(3) {
   border-color: #848686;
@@ -1542,7 +1542,7 @@ margin-left: 15px;
 }
 .stastistical-part .content .statistics .rounded-icon li .rounded-icon-label {
   font-size: 1em;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .stastistical-part .content .statistics .rounded-icon li:nth-child(1) {
   -webkit-transition: 0.5s ease 0.1s;
@@ -1733,7 +1733,7 @@ margin-left: 15px;
   background: #a5a5a5;
 }
 .stastistical-part .content .statistics .pieChart .pie-section:nth-of-type(7) .pie-section-before, .stastistical-part .content .statistics .pieChart .pie-section:nth-of-type(7) .pie-section-after {
-  background: #8a8a8a;
+  background: #FFFFFF;
 }
 .stastistical-part .content .statistics .pieChart .pie-section-labels {
   position: absolute;
@@ -1891,7 +1891,7 @@ margin-left: 15px;
     background: #a5a5a5;
   }
   .stastistical-part .content .statistics .pieChart .pie-section:nth-of-type(7) .pie-section-before, .stastistical-part .content .statistics .pieChart .pie-section:nth-of-type(7) .pie-section-after {
-    background: #8a8a8a;
+    background: #FFFFFF;
   }
 }
 .stastistical-part .content .statistics .pieChart-list {
@@ -1916,7 +1916,7 @@ margin-left: 15px;
   overflow: visible;
   /* margin-right: 10px; */
   width: 10em;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .stastistical-part .content .statistics .pieChart-list li:before {
   content: '';
@@ -1924,8 +1924,8 @@ margin-left: 15px;
   margin: 1px 7px 0 0;
   width: 16px;
   height: 16px;
-  border: 2px solid #8a8a8a;
-  background: #8a8a8a;
+  border: 2px solid #FFFFFF;
+  background: #FFFFFF;
   border-radius: 50%;
 }
 .stastistical-part .content .statistics .pieChart-list li:nth-of-type(1):before {
@@ -1949,8 +1949,8 @@ margin-left: 15px;
   background: #a5a5a5;
 }
 .stastistical-part .content .statistics .pieChart-list li:nth-of-type(6):before {
-  border-color: #8a8a8a;
-  background: #8a8a8a;
+  border-color: #FFFFFF;
+  background: #FFFFFF;
 }
 @media screen and (min-width: 1400px) {
   .stastistical-part .content .statistics .pieChart-list {
@@ -2064,7 +2064,7 @@ margin-left: 15px;
   height: 60px;
 }
 .timeline-part .timeline li.in-point.year {
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .timeline-part .timeline li.in-point .title,
 .timeline-part .timeline li.in-point .timeline-content {
@@ -2341,7 +2341,7 @@ margin-left: 15px;
 }
 .tooltip .tooltip-label {
   margin-bottom: 0.2em;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .tooltip:before {
   content: '';
@@ -2356,7 +2356,7 @@ margin-left: 15px;
   display: block;
   width: 16px;
   height: 16px;
-  border: 2px solid #8a8a8a;
+  border: 2px solid #FFFFFF;
   background: rgba(27, 32, 33, 0.7);
   border-radius: 50%;
 }
@@ -2381,7 +2381,7 @@ margin-left: 15px;
     width: 16.5625em;
     height: 2px;
     margin-top: -1px;
-    background: #8a8a8a;
+    background: #FFFFFF;
   }
   .tooltip.tooltip-left {
     padding-right: 18.75em;
@@ -2516,7 +2516,7 @@ margin-left: 15px;
 }
 .testimonials-part .testimonials li .testimonial-author {
   text-transform: uppercase;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 @media screen and (min-width: 750px) {
   .testimonials-part .testimonials li .testimonial-text {
@@ -2551,12 +2551,12 @@ margin-left: 15px;
   width: 15px;
   height: 15px;
   margin: 0 8px;
-  border: 2px solid #8a8a8a;
+  border: 2px solid #FFFFFF;
   border-radius: 50%;
   cursor: pointer;
 }
 .testimonials-part .testimonials-pagination .swiper-pagination-switch.swiper-active-switch {
-  background: #8a8a8a;
+  background: #FFFFFF;
 }
 @media screen and (min-width: 750px) {
   .testimonials-part .testimonials-pagination {
@@ -2628,7 +2628,7 @@ margin-left: 15px;
     font-size: 3em;
     cursor: pointer;
     font-family: "beyond-bespoke-microsite";
-    color: #8a8a8a;
+    color: #FFFFFF;
   }
   .featured-part .content .profile-pagination .swiper-pagination-switch.swiper-active-switch {
     color: white;
@@ -2641,7 +2641,7 @@ margin-left: 15px;
     top: 55%;
     z-index: 2;
     font-size: 4.6875em;
-    color: #8a8a8a;
+    color: #FFFFFF;
   }
   .featured-part .content .profile-nav.profile-nav-prev {
     left: 0;
@@ -2717,7 +2717,7 @@ margin-left: 15px;
   cursor: pointer;
 }
 .pricing-part .pricing-menu li a {
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .pricing-part .pricing-menu li a:focus, .pricing-part .pricing-menu li a:hover {
   color: white;
@@ -2755,7 +2755,7 @@ margin-left: 15px;
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
   font-size: 4.6875em;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .pricing-part .pricing-nav.pricing-nav-prev {
   left: 0;
@@ -2932,7 +2932,7 @@ section#tips-part {
 .events-part .events-list li .event-text .event-description {
   margin-top: 0.8em;
   font-size: 1.3125em;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 .events-part .events-list li .event-image {
   float: left;
@@ -2986,7 +2986,7 @@ section#tips-part {
     float: left;
     font-size: 1.125em;
     text-transform: uppercase;
-    color: #8a8a8a;
+    color: #FFFFFF;
     text-align: center;
   }
   .events-part .events-list .event-titles .event-title:nth-child(1) {
