@@ -467,7 +467,7 @@ h4, .h4 {
 
 p {
   font-size: 1.3125em;
-  color: #FFFFFF;
+  color: #8a8a8a;
 }
 .icon-compose,.icon-task-check{
   margin-right:5px; 
@@ -493,7 +493,7 @@ p {
 }
 span.paragraph-text{
   text-align: left;
-  color: #8a8a8a;
+  color: #FFFFFF;
 }
 
 .section-intro h1 .seconday, .section-intro h1 .em, .section-intro h1 .section-team .team-members li .team-member-title .em, .section-team .team-members li .team-member-title .section-intro h1 .em, .section-intro h1 .section-brand .guidelines .columns .colors ul li .em, .section-brand .guidelines .columns .colors ul li .section-intro h1 .em,
